@@ -1,0 +1,15 @@
+F:\курсы\homework2\homework8\bin\Debug\net6.0\homework8.exe
+F:\курсы\homework2\homework8\bin\Debug\net6.0\homework8.deps.json
+F:\курсы\homework2\homework8\bin\Debug\net6.0\homework8.runtimeconfig.json
+F:\курсы\homework2\homework8\bin\Debug\net6.0\homework8.dll
+F:\курсы\homework2\homework8\bin\Debug\net6.0\homework8.pdb
+F:\курсы\homework2\homework8\obj\Debug\net6.0\homework8.csproj.AssemblyReference.cache
+F:\курсы\homework2\homework8\obj\Debug\net6.0\homework8.GeneratedMSBuildEditorConfig.editorconfig
+F:\курсы\homework2\homework8\obj\Debug\net6.0\homework8.AssemblyInfoInputs.cache
+F:\курсы\homework2\homework8\obj\Debug\net6.0\homework8.AssemblyInfo.cs
+F:\курсы\homework2\homework8\obj\Debug\net6.0\homework8.csproj.CoreCompileInputs.cache
+F:\курсы\homework2\homework8\obj\Debug\net6.0\homework8.dll
+F:\курсы\homework2\homework8\obj\Debug\net6.0\refint\homework8.dll
+F:\курсы\homework2\homework8\obj\Debug\net6.0\homework8.pdb
+F:\курсы\homework2\homework8\obj\Debug\net6.0\homework8.genruntimeconfig.cache
+F:\курсы\homework2\homework8\obj\Debug\net6.0\ref\homework8.dll
